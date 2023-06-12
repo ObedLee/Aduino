@@ -1,0 +1,11 @@
+C:\Users\dmz02\Desktop\이건우\프로그래밍\StepMotorCtr\StepMotorCtr\bin\Debug\StepMotorCtr.exe.config
+C:\Users\dmz02\Desktop\이건우\프로그래밍\StepMotorCtr\StepMotorCtr\bin\Debug\StepMotorCtr.exe
+C:\Users\dmz02\Desktop\이건우\프로그래밍\StepMotorCtr\StepMotorCtr\bin\Debug\StepMotorCtr.pdb
+C:\Users\dmz02\Desktop\이건우\프로그래밍\StepMotorCtr\StepMotorCtr\obj\Debug\StepMotorCtr.csproj.AssemblyReference.cache
+C:\Users\dmz02\Desktop\이건우\프로그래밍\StepMotorCtr\StepMotorCtr\obj\Debug\StepMotorCtr.csproj.SuggestedBindingRedirects.cache
+C:\Users\dmz02\Desktop\이건우\프로그래밍\StepMotorCtr\StepMotorCtr\obj\Debug\StepMotorCtr.Form1.resources
+C:\Users\dmz02\Desktop\이건우\프로그래밍\StepMotorCtr\StepMotorCtr\obj\Debug\StepMotorCtr.Properties.Resources.resources
+C:\Users\dmz02\Desktop\이건우\프로그래밍\StepMotorCtr\StepMotorCtr\obj\Debug\StepMotorCtr.csproj.GenerateResource.cache
+C:\Users\dmz02\Desktop\이건우\프로그래밍\StepMotorCtr\StepMotorCtr\obj\Debug\StepMotorCtr.csproj.CoreCompileInputs.cache
+C:\Users\dmz02\Desktop\이건우\프로그래밍\StepMotorCtr\StepMotorCtr\obj\Debug\StepMotorCtr.exe
+C:\Users\dmz02\Desktop\이건우\프로그래밍\StepMotorCtr\StepMotorCtr\obj\Debug\StepMotorCtr.pdb

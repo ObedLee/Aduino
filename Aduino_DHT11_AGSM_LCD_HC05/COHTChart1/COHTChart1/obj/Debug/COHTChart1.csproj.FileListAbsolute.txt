@@ -1,0 +1,11 @@
+C:\Users\dmz02\Desktop\이건우\프로그래밍\COHTChart1\COHTChart1\bin\Debug\COHTChart1.exe.config
+C:\Users\dmz02\Desktop\이건우\프로그래밍\COHTChart1\COHTChart1\bin\Debug\COHTChart1.exe
+C:\Users\dmz02\Desktop\이건우\프로그래밍\COHTChart1\COHTChart1\bin\Debug\COHTChart1.pdb
+C:\Users\dmz02\Desktop\이건우\프로그래밍\COHTChart1\COHTChart1\obj\Debug\COHTChart1.csproj.AssemblyReference.cache
+C:\Users\dmz02\Desktop\이건우\프로그래밍\COHTChart1\COHTChart1\obj\Debug\COHTChart1.csproj.SuggestedBindingRedirects.cache
+C:\Users\dmz02\Desktop\이건우\프로그래밍\COHTChart1\COHTChart1\obj\Debug\COHTChart1.Form1.resources
+C:\Users\dmz02\Desktop\이건우\프로그래밍\COHTChart1\COHTChart1\obj\Debug\COHTChart1.Properties.Resources.resources
+C:\Users\dmz02\Desktop\이건우\프로그래밍\COHTChart1\COHTChart1\obj\Debug\COHTChart1.csproj.GenerateResource.cache
+C:\Users\dmz02\Desktop\이건우\프로그래밍\COHTChart1\COHTChart1\obj\Debug\COHTChart1.csproj.CoreCompileInputs.cache
+C:\Users\dmz02\Desktop\이건우\프로그래밍\COHTChart1\COHTChart1\obj\Debug\COHTChart1.exe
+C:\Users\dmz02\Desktop\이건우\프로그래밍\COHTChart1\COHTChart1\obj\Debug\COHTChart1.pdb

@@ -1,0 +1,11 @@
+C:\Users\dmz02\Desktop\이건우\프로그래밍\ServoMotorCtr\ServoMotorCtr\bin\Debug\ServoMotorCtr.exe.config
+C:\Users\dmz02\Desktop\이건우\프로그래밍\ServoMotorCtr\ServoMotorCtr\bin\Debug\ServoMotorCtr.exe
+C:\Users\dmz02\Desktop\이건우\프로그래밍\ServoMotorCtr\ServoMotorCtr\bin\Debug\ServoMotorCtr.pdb
+C:\Users\dmz02\Desktop\이건우\프로그래밍\ServoMotorCtr\ServoMotorCtr\obj\Debug\ServoMotorCtr.csproj.AssemblyReference.cache
+C:\Users\dmz02\Desktop\이건우\프로그래밍\ServoMotorCtr\ServoMotorCtr\obj\Debug\ServoMotorCtr.csproj.SuggestedBindingRedirects.cache
+C:\Users\dmz02\Desktop\이건우\프로그래밍\ServoMotorCtr\ServoMotorCtr\obj\Debug\ServoMotorCtr.Form1.resources
+C:\Users\dmz02\Desktop\이건우\프로그래밍\ServoMotorCtr\ServoMotorCtr\obj\Debug\ServoMotorCtr.Properties.Resources.resources
+C:\Users\dmz02\Desktop\이건우\프로그래밍\ServoMotorCtr\ServoMotorCtr\obj\Debug\ServoMotorCtr.csproj.GenerateResource.cache
+C:\Users\dmz02\Desktop\이건우\프로그래밍\ServoMotorCtr\ServoMotorCtr\obj\Debug\ServoMotorCtr.csproj.CoreCompileInputs.cache
+C:\Users\dmz02\Desktop\이건우\프로그래밍\ServoMotorCtr\ServoMotorCtr\obj\Debug\ServoMotorCtr.exe
+C:\Users\dmz02\Desktop\이건우\프로그래밍\ServoMotorCtr\ServoMotorCtr\obj\Debug\ServoMotorCtr.pdb

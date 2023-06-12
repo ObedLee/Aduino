@@ -1,0 +1,11 @@
+C:\Users\dmz02\Desktop\이건우\프로그래밍\HTChart\HTChart\obj\Debug\HTChart.csproj.AssemblyReference.cache
+C:\Users\dmz02\Desktop\이건우\프로그래밍\HTChart\HTChart\obj\Debug\HTChart.csproj.SuggestedBindingRedirects.cache
+C:\Users\dmz02\Desktop\이건우\프로그래밍\HTChart\HTChart\obj\Debug\HTChart.Form1.resources
+C:\Users\dmz02\Desktop\이건우\프로그래밍\HTChart\HTChart\obj\Debug\HTChart.Properties.Resources.resources
+C:\Users\dmz02\Desktop\이건우\프로그래밍\HTChart\HTChart\obj\Debug\HTChart.csproj.GenerateResource.cache
+C:\Users\dmz02\Desktop\이건우\프로그래밍\HTChart\HTChart\obj\Debug\HTChart.csproj.CoreCompileInputs.cache
+C:\Users\dmz02\Desktop\이건우\프로그래밍\HTChart\HTChart\bin\Debug\HTChart.exe.config
+C:\Users\dmz02\Desktop\이건우\프로그래밍\HTChart\HTChart\bin\Debug\HTChart.exe
+C:\Users\dmz02\Desktop\이건우\프로그래밍\HTChart\HTChart\bin\Debug\HTChart.pdb
+C:\Users\dmz02\Desktop\이건우\프로그래밍\HTChart\HTChart\obj\Debug\HTChart.exe
+C:\Users\dmz02\Desktop\이건우\프로그래밍\HTChart\HTChart\obj\Debug\HTChart.pdb
